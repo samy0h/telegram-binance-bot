@@ -1,0 +1,6 @@
+{
+  "use_percentage": false,
+  "risk": 0.05,
+  "fixed_amount": 50.0,
+  "leverage": 10
+}
